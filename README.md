@@ -21,7 +21,7 @@ The Housing Price Prediction project aims to forecast house prices using advance
 * Objective: Predict the sale price of houses based on their attributes.
   
 ## Results
-Achieved a competitive score/rank of 3848 out of 6261 teams in the competition.
+Achieved a competitive score/rank of 3521 out of 6261 teams in the competition.
 Visualization and performance metrics demonstrate the effectiveness of the implemented models.
 Usage
 
